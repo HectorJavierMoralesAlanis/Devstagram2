@@ -11,7 +11,7 @@
             </div>
             <div class="md:w-8/12 lg:w-6/12 px-5">
                 <p class="text-gray-700 text-2xl">
-                    {{auth()->user()->username}}
+                    {{$user->username}}
                 </p>
                 <!-- Añadir mas contenido -->
             <p class="text-gray-800 text-sm mb-3 font-bold mt-5">
