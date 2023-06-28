@@ -3,7 +3,6 @@
 @section('titulo')
     Pagina Principal
 @endsection
-
 @section('contenido')
     <div class="felx justify-center">
         <div class="w-full md:w-8/12 lg:w/12 md:flex">
